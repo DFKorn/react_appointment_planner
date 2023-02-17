@@ -6,4 +6,4 @@ The app consists of two pages: one to view and add contacts and one to view and 
 ### Technologies: 
 * React
 
-### Live - [Appointment Planner](https://codecademy-appointment-planner.netlify.app/contacts)
+### Live - [Appointment Planner](https://codecademy-appointment-planner.netlify.app)
